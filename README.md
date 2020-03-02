@@ -1,1 +1,2 @@
-# niba-retard-python-game
+# cspnumbergame
+(in .net visual c#)
